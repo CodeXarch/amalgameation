@@ -1,2 +1,2 @@
 # amalgameation
-A phazer game for the browser featuring an amalgamation of free assets
+A game for the browser. An amalgamation of free assets
